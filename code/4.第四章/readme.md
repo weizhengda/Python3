@@ -12,11 +12,11 @@ python基本数据类型
    |
    └── 数字(Number)/
         |
-	    ├── 整型(int)
+	  ├── 整型(int)
         |
-	    ├── 浮点型(float)
+	  ├── 浮点型(float)
         |
-	    ├── 布尔型(bool)
+	  ├── 布尔型(bool)
         |
         └── 复数(complex)
 
